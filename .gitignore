@@ -1,5 +1,6 @@
-/example/*.OBJ
-/example/*.EXE
+*.OBJ
+*.EXE
+*.[Aa][Ss][Mm]
 
 # https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
 
